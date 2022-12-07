@@ -1,0 +1,25 @@
+{
+  "name": "text_to_specch",
+  "version": "1.0.0",
+  "description": "SI final project for generating speech for the given text using azure API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aravindpabbisetty/SI-Final-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aravindpabbisetty/SI-Final-Project/issues"
+  },
+  "homepage": "https://github.com/aravindpabbisetty/SI-Final-Project#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-validator": "^6.14.2"
+  }
+}
