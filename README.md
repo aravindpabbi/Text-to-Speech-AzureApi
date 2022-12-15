@@ -3,7 +3,7 @@
 
 ## Prerequisites
 * Node.js - Node.js® is an open-source, cross-platform JavaScript runtime environment.
-* NPM = NPM is package manager for node.js which installs modules.
+* NPM - NPM is package manager for node.js which installs modules.
 * Postman - Postman is a tool to test the APIs locally
 
 ## Steps to setup the app
