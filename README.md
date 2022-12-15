@@ -7,7 +7,7 @@
 * Postman - Postman is a tool to test the APIs locally
 
 ## Steps to setup the app
-* Clone this repository and do npm install that will install all the required modules and dependencies
+* Clone this repository and run the command `npm install` that will install all the required modules and dependencies
 * Create a .env file and value: ACCESS_KEY = YOUR_KEY(you can get a key after creating a speech service in your azure account)
 * Run the command `node app.js` this will run the server.
 * You can test the apis in postman now.
